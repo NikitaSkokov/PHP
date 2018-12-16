@@ -25,6 +25,15 @@ body {
 	color: black;
 	order: 2;
 }
+ .FlexContent form {
+	display: block;
+	margin-bottom: 30px;
+}
+ textarea {
+	margin: 0px; 
+	width: 692px; 
+	height: 58px;
+}
  .FlexSideOne {
 	background-color: #7E7E7E;
 	order: 3;
